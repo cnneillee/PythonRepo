@@ -1,7 +1,7 @@
 # BlogMigration
-A python project based on [Scrapy][1] helps me crawl my former articles in http://www.cnblogs/neillee.
+A python project based on [Scrapy][1] helps me crawl my former articles in http://www.cnblogs.com/neillee.
 
-一个基于[Scrapy][1]的 Python 项目。主要用于爬取早期我在博客站点 http://www.cnblogs/neillee 发布的文章。
+一个基于[Scrapy][1]的 Python 项目。主要用于爬取早期我在博客站点 http://www.cnblogs.com/neillee 发布的文章。
 
 
 It crawls the content and meta-data, such as posts-view-count and finally transforms these html content into local markdown files,in order to post them on my new blog site —— http://cnneillee.github.io. These markdown files are formated in line with the [hexo][2] posts rules.
