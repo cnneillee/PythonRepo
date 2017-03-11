@@ -10,7 +10,7 @@ Currently, there are following python projects:
 当前，仓库中有如下项目：
 
 ## [BlogMigration][1]
-A project based on [Scrapy][2] aims to migrate the http://www.cnblogs/neillee articles.Actually it downloads the article and convert the content into Markdown files.
+A project based on [Scrapy][2] aims to migrate the http://www.cnblogs.com/neillee articles.Actually it downloads the article and convert the content into Markdown files.
 
 一个基于 [Scrapy][2] 的项目，主要用于迁移 http://www.cnblogs/neillee 博客上的文章。实际上，它将文章内容下载下来，并按照一定格式转化成 Markdown 文件。
 
